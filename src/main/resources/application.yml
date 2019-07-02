@@ -10,7 +10,7 @@ eureka:
 
 spring:
     application:
-      name: a-test-feign
+      name: spring-openfeign
 
 
 
